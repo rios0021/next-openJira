@@ -12,7 +12,7 @@ mongodb://localhost:27017/entriesDB
 ```
 
 ## Configure environment variables
-Rebane the file __.env.template__ to __.env__
+Rename the file __.env.template__ to __.env__
 
 ## Fill the database with testing data
 Call 
